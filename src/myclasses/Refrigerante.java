@@ -12,8 +12,8 @@ public class Refrigerante extends Product{
     }
     
     // atributes
-    String type; // Com acuçar, Sem acuçar
-    String brand;
+    private String type; // Com acuçar, Sem acuçar
+    private String brand;
     
     // methods
     public String getType() {
