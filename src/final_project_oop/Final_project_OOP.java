@@ -4,9 +4,9 @@ import java.util.Scanner;
 import myclasses.VendingMachine;
 
 // TODO:
-//      check so that when selecting a specific product it checks the amount that is inside of that slot not the stock in general
-//      change the option to allow exit
-//      change diagram
+//      
+//      
+//      
 
 public class Final_project_OOP {
     public static void main(String[] args) throws ParseException {
