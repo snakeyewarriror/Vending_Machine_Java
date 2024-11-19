@@ -18,10 +18,10 @@ abstract class Product implements Serializable{
     // atributes
     SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
     
-    private String name;
-    private int reference_num;
-    private Date expiration_date;
-    private double price;
+    protected String name;
+    protected int reference_num;
+    protected Date expiration_date;
+    protected double price;
     
     
     // methods
