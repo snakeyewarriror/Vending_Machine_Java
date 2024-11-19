@@ -12,8 +12,8 @@ public class Sandes extends Product{
     }
     
     // atributes
-    String type; // Fiambre, Misto, Queijo
-    String brand;
+    private String type; // Fiambre, Misto, Queijo
+    private String brand;
     
     // methods
     public String getType() {
