@@ -12,8 +12,8 @@ public class Chocolate extends Product{
     }
     
     // atributes
-    String type; // Negro, Branco, Leite
-    String brand;
+    private String type; // Negro, Branco, Leite
+    private String brand;
     
     // methods
     public String getType() {
