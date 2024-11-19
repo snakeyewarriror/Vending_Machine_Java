@@ -16,7 +16,7 @@ abstract class Product implements Serializable{
     
     
     // atributes
-    SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+    private SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
     
     protected String name;
     protected int reference_num;
